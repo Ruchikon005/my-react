@@ -100,7 +100,7 @@ a {
 
 /* Change the link color on hover */
 .card:hover {
-  background: rgb(253, 0, 0);
+  background: rgb(0, 0, 0);
   color: rgb(255, 255, 255);
 }
 
